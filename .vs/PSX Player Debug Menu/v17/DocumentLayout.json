@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anonymous\\Desktop\\PSX_Debug_Menu_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4789-BCDE-F1234567890A}|PSX_Debug_Menu\\PSX_Debug_Menu.csproj|c:\\users\\anonymous\\desktop\\psx_debug_menu_project\\psx_debug_menu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4789-BCDE-F1234567890A}|PSX_Debug_Menu\\PSX_Debug_Menu.csproj|solutionrelative:psx_debug_menu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anonymous\\Desktop\\PSX_Debug_Menu_Project\\PSX_Debug_Menu\\Form1.cs",
+              "RelativeDocumentMoniker": "PSX_Debug_Menu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anonymous\\Desktop\\PSX_Debug_Menu_Project\\PSX_Debug_Menu\\Form1.cs [Design]",
+              "RelativeToolTip": "PSX_Debug_Menu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T21:36:46.06Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
